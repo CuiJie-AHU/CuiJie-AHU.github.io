@@ -8,9 +8,9 @@
 ### Academic Affiliations
 
 #### Editorial and Review Roles
-- Editorial Board Member, **IET Communications**
-- Guest Editor, **Security and Communication Networks**
-- Guest Editor, **Sensors**
+- **Editorial Board Member**, *IET Communications*
+- **Guest Editor**, *Security and Communication Networks*
+- **Guest Editor**, *Sensors*
 
 #### Professional Memberships
 - **Senior Member** of IEEE
@@ -35,11 +35,12 @@ Scientific Awards
 - **Third Prize** of Anhui Provincial Natural Science Award (**2023**)
 - **Second Prize** of Scientific and Technological Progress Award, Anhui Computer Federation (**2021**)
 
-Anhui Provincial Teaching Achievement Awards:
-- **Grand Prize** (**2023**)
-- **First Prize** (**2022**)
-- **First Prize** (**2021**)
-- **Third Prize** (**2021**)
+Teaching Awards:
+- **Grand Prize of Anhui Provincial Teaching Achievement Awards** (**2023**)
+- **First Prize of Anhui Provincial Teaching Achievement Awards** (**2022**)
+- **First Prize of Anhui Provincial Teaching Achievement Awards** (**2021**)
+- **First Prize of Anhui Provincial Teaching Achievement Awards** (**2015**)
+- **Third Prize of Anhui Provincial Teaching Achievement Awards** (**2021**)
 
 #### Email
 cuijie@mail.ustc.edu.cn
