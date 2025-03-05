@@ -1,4 +1,4 @@
-[![CuiJie-AHU](https://img.shields.io/badge/CuiJie%20AHU-github-blue?logo=github)](https://github.com/CuiJie-AHU)
+[![CuiJie-AHU](https://img.shields.io/badge/CuiJie%20AHU-github-blue?logo=github)](https://github.com/CuiJie-AHU)  [![CuiJie-AHU](https://img.shields.io/badge/Offical%20page-AHU-blue)](https://cs.ahu.edu.cn/2021/1214/c20806a276867/page.htm)
 
 ## Preview
 [![Screenshot of the Website](./pre.png)](https://cuijie-ahu.github.io/)
