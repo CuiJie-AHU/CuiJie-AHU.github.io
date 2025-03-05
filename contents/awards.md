@@ -1,13 +1,8 @@
-- National Scholarship of Graduate Student, 2024.
+### Academic Awards
 
-- First-prize Scholarship of CUMT, 2024.
+#### Global Recognition
+- **2020-2024**: Listed in Stanford University's Global Top 2% Scientists for Four Consecutive Years
 
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+#### Best Paper Awards
+- **2023**: Best Paper Award at ProvSec 2023
+- **2020**: Best Paper Award at IEEE/ACM RTDPCC 2020

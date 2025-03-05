@@ -1,6 +1,4 @@
-
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![CuiJie-AHU](https://img.shields.io/badge/CuiJie%20AHU-github-blue?logo=github)](https://github.com/CuiJie-AHU)
 
 Jie Cui, a professor and doctoral supervisor, serves as the Deputy Dean of both the School of Computer Science and Technology and the School of Cybersecurity at Anhui University. He is the project leader of a key project under the Joint Fund of the National Natural Science Foundation of China, the person in charge of a national first-class major construction site, a recipient of the Anhui Provincial Outstanding Youth Fund, the leader of an Anhui Provincial Scientific Research and Innovation Team, the leader of an Anhui Provincial Excellent Graduate Supervisor Team, a candidate for the reserve of Anhui Provincial Academic and Technical Leaders, and the Deputy Director of the Anhui Provincial Engineering Laboratory for Internet of Things Security Technology. He is also a senior member of the Institute of Electrical and Electronics Engineers (IEEE).
 
@@ -11,9 +9,25 @@ He has won 1 Special Prize (ranked first), 3 First Prizes, 1 Second Prize, and 1
 #### Email
 cuijie@mail.ustc.edu.cn
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### Projects
+
+1. **Joint Funds of the National Natural Science Foundation of China**
+   - Role: Principal Investigator
+   - Project: Research on integrated Security Protection System and Key Technologies for Intelligent Connected Vehicles (U23A20308)
+   - Period: 2024.1-2027.12
+   - Funding: 2.57 million CNY
+
+2. **National Natural Science Foundation**
+   - Role: Principal Investigator
+   - Project: Research on Secure Data Sharing Methods for Industrial Internet of Things Based on Blockchain (62272002)
+   - Period: 2023.1-2026.12
+   - Funding: 0.53 million CNY
+
+3. **Anhui Provincial Science Foundation for Distinguished Young Scholar**
+   - Role: Principal Investigator
+   - Project: Research on Active Security Protection Mechanisms for Vehicular Networks (2108085J31)
+   - Period: 2021.1-2023.12
+   - Funding: 0.4 million CNY
 
 #### Research Interests
 - Vehicular network security 
