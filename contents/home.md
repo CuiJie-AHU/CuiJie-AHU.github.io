@@ -10,19 +10,19 @@
 #### Editorial and Review Roles
 - Editorial Board Member, **IET Communications**
 - Guest Editor, **Security and Communication Networks**
-- Editorial Board Member/Guest Editor for four **SCI-indexed journals** (including *IET Communications* and *SCN*)
+- Guest Editor, **Sensors**
 
 #### Professional Memberships
 - **Senior Member** of IEEE
 - **Vice Chairman** of the ACM Hefei Chapter
 
 #### Conference Organization Roles
-- Publicity Chair, **IEEE/ACM UCC 2020**
+- Publicity Chair, **IEEE IWQoS 2025 \& 2024, IEEE UCC 2024 \& 2020, IEEE BDCAT 2023, etc.**
 
 ### Research Achievements
 - Published **200+** high-quality academic papers:
-  - **30+** papers in **CCF Class A** journals
-  - **50+** papers in **IEEE/ACM Transactions**
+  - **90+** papers in **IEEE/ACM Transactions**
+  - **30+** papers in **CCF Class A** papers
 - **8,000+** citations on Google Scholar (**H-index: 47**)
 - **1** hot paper and **5** highly cited papers
 - **2** Best Paper Awards at international conferences
@@ -33,10 +33,10 @@
 
 Scientific Awards
 - **Third Prize** of Anhui Provincial Natural Science Award (**2023**)
-- **Second Prize** of Scientific and Technological Progress Award, Anhui Computer Federation (**2022**)
 - **Second Prize** of Scientific and Technological Progress Award, Anhui Computer Federation (**2021**)
 
 Anhui Provincial Teaching Achievement Awards:
+- **Grand Prize** (**2023**)
 - **First Prize** (**2022**)
 - **First Prize** (**2021**)
 - **Third Prize** (**2021**)
