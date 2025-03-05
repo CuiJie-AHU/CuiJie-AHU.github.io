@@ -22,7 +22,7 @@
 ### Research Achievements
 - Published **200+** high-quality academic papers:
   - **90+** papers in **IEEE/ACM Transactions**
-  - **30+** papers in **CCF Class A** papers
+  - **30+** papers in **CCF Class A**
 - **8,000+** citations on Google Scholar (**H-index: 47**)
 - **1** hot paper and **5** highly cited papers
 - **2** Best Paper Awards at international conferences
