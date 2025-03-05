@@ -1,7 +1,7 @@
 [![CuiJie-AHU](https://img.shields.io/badge/CuiJie%20AHU-github-blue?logo=github)](https://github.com/CuiJie-AHU)  [![CuiJie-AHU](https://img.shields.io/badge/Offical%20page-AHU-blue)](https://cs.ahu.edu.cn/2021/1214/c20806a276867/page.htm)
 
 **Jie Cui** (崔杰) is a **Professor** and **Doctoral Supervisor** at Anhui University, where he serves as:
-- **Deputy Party Secretary** of the School of Computer Science and Technology
+- **Deputy Dean** of the School of Computer Science and Technology
 - **Deputy Dean** of the School of Cybersecurity
 - **Deputy Director** of the Anhui Provincial Engineering Laboratory for Internet of Things Security Technology
 
