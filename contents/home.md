@@ -27,7 +27,7 @@
 - **1** hot paper and **5** highly cited papers
 - **2** Best Paper Awards at international conferences
 - **30+** authorized national invention patents (**4** transformed and applied)
-- Consecutively selected into Stanford University's **Global Top 2% Scientists** (2020-2023)
+- Consecutively selected into Stanford University's **Global Top 2% Scientists** (2020-2024)
 
 ### Academic Excellence
 
