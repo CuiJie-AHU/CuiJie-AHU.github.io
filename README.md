@@ -33,18 +33,6 @@
 - **30+** authorized national invention patents (**4** transformed and applied)
 - Consecutively selected into Stanford University's **Global Top 2% Scientists** (2020-2024)
 
-### Academic Excellence
-
-Scientific Awards
-- **Third Prize** of Anhui Provincial Natural Science Award (**2023**)
-- **Second Prize** of Scientific and Technological Progress Award, Anhui Computer Federation (**2022**)
-- **Second Prize** of Scientific and Technological Progress Award, Anhui Computer Federation (**2021**)
-
-Anhui Provincial Teaching Achievement Awards:
-- **First Prize** (**2022**)
-- **First Prize** (**2021**)
-- **Third Prize** (**2021**)
-
 #### Email
 cuijie@mail.ustc.edu.cn
 
