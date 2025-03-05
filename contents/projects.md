@@ -16,6 +16,26 @@
 **Funding**: 0.53 million CNY  
 **Role**: Principal Investigator
 
+##### National Natural Science Foundation International Cooperation Project
+**Project Title**: Research on Proactive Security Protection Models and Mechanisms for Vehicular Networks Based on Machine Learning  
+**Project Number**: 62011530046  
+**Duration**: 2020.7-2022.6  
+**Role**: Principal Investigator
+
+##### National Natural Science Foundation General Project
+**Project Title**: Research on Efficient Privacy-Preserving Mechanisms in 5G Vehicular Networks Based on Edge Computing  
+**Project Number**: 61872001  
+**Duration**: 2019.1-2022.12  
+**Funding**: 0.64 million CNY  
+**Role**: Principal Investigator
+
+##### National Natural Science Foundation Youth Project
+**Project Title**: Research on New Algebraic Cryptanalysis Methods for SPN-type Block Ciphers  
+**Project Number**: 61502008  
+**Duration**: 2016.1-2018.12  
+**Funding**: 0.24 million CNY  
+**Role**: Principal Investigator
+
 #### Provincial Level Projects
 
 ##### Anhui Provincial Outstanding Youth Extended Funding Project (Ongoing)
