@@ -30,7 +30,6 @@ Anhui Provincial Teaching Achievement Awards:
 #### Email
 cuijie@mail.ustc.edu.cn
 
-
 #### Research Interests
 - Vehicular network security 
 - IoT security 
