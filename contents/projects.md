@@ -1,5 +1,3 @@
-### Research Grants
-
 #### National Level Projects
 
 ##### National Natural Science Foundation Joint Fund Key Project (Ongoing)
@@ -35,6 +33,9 @@
 **Duration**: 2016.1-2018.12  
 **Funding**: 0.24 million CNY  
 **Role**: Principal Investigator
+
+
+---
 
 #### Provincial Level Projects
 
