@@ -16,5 +16,9 @@ M.E., Computer Science and Technology, China University of Mining and Technology
 B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+- Vehicular network security 
+- IoT security 
+- Blockchain and cryptography 
+- AI-driven security solutions 
+- Digital twin security
 
