@@ -13,11 +13,11 @@
 
 ### Academic Excellence
 
-Scientific Awards
+#### Scientific Awards
 - **Third Prize** of Anhui Provincial Natural Science Award (**2023**)
 - **Second Prize** of Scientific and Technological Progress Award, Anhui Computer Federation (**2021**)
 
-Teaching Awards:
+#### Teaching Awards:
 - **Grand Prize of Anhui Provincial Teaching Achievement Awards** (**2023**)
 - **First Prize of Anhui Provincial Teaching Achievement Awards** (**2022**)
 - **First Prize of Anhui Provincial Teaching Achievement Awards** (**2021**)
